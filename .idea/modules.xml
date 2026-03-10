@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Atividade_pilhasDinamicas_e_Simples/Atividade_pilhasDinamicas_e_Simples.iml" filepath="$PROJECT_DIR$/Atividade_pilhasDinamicas_e_Simples/Atividade_pilhasDinamicas_e_Simples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula1_ListaSimples/Aula1_ListaSimples.iml" filepath="$PROJECT_DIR$/Aula1_ListaSimples/Aula1_ListaSimples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula2_ListaDinamica/Aula2_ListaDinamica.iml" filepath="$PROJECT_DIR$/Aula2_ListaDinamica/Aula2_ListaDinamica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula3_FilaSimples/Aula3_FilaSimples.iml" filepath="$PROJECT_DIR$/Aula3_FilaSimples/Aula3_FilaSimples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula4_FilaDinamica/Aula4_FilaDinamica.iml" filepath="$PROJECT_DIR$/Aula4_FilaDinamica/Aula4_FilaDinamica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade_pilhasDinamicas_e_Simples/PilhaDinamica/PilhaDinamica.iml" filepath="$PROJECT_DIR$/Atividade_pilhasDinamicas_e_Simples/PilhaDinamica/PilhaDinamica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade_pilhasDinamicas_e_Simples/PilhaSimples/PilhaSimples.iml" filepath="$PROJECT_DIR$/Atividade_pilhasDinamicas_e_Simples/PilhaSimples/PilhaSimples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estruturaDeDados.iml" filepath="$PROJECT_DIR$/estruturaDeDados.iml" />
+    </modules>
+  </component>
+</project>
