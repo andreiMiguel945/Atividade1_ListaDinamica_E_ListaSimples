@@ -54,7 +54,11 @@ public class ListaDinamica implements ListaOperacoesDinamica {
             if (buscarElemento(elemento)) {
                 //removendo primeiro
                 if (this.inicio.getConteudo().equals(elemento)) {
+<<<<<<< HEAD
                     this.inicio = this.inicio.getProx();
+=======
+                    this.inicio.setConteudo(null);
+>>>>>>> 971089f41e4cbe2a6f71ab3e796e4285644a660e
                 } else if (this.inicio.getProx() != null) {
                     No aux = this.inicio;
                     do {
@@ -132,7 +136,11 @@ public class ListaDinamica implements ListaOperacoesDinamica {
        if(buscarElemento(elemento)){
           //Removendo o primeiro
            if(this.inicio != null && this.inicio.getConteudo().equalsIgnoreCase(elemento)){
+<<<<<<< HEAD
                this.inicio = this.inicio.getProx();
+=======
+               this.inicio.setConteudo(null);
+>>>>>>> 971089f41e4cbe2a6f71ab3e796e4285644a660e
                contagem++;
            }
            No aux = this.inicio;
@@ -145,6 +153,13 @@ public class ListaDinamica implements ListaOperacoesDinamica {
                    aux = aux.getProx();
                }
            }
+<<<<<<< HEAD
+=======
+           assert aux != null;
+           if(aux.getConteudo().equalsIgnoreCase(elemento)){
+               aux.setConteudo(null);
+           }
+>>>>>>> 971089f41e4cbe2a6f71ab3e796e4285644a660e
        }
         return contagem;
     }
@@ -241,8 +256,13 @@ public class ListaDinamica implements ListaOperacoesDinamica {
         String elementoRemovido;
         if(indice == 0){
             elementoRemovido = this.inicio.getConteudo();
+<<<<<<< HEAD
            this.inicio = this.inicio.getProx();
           return elementoRemovido;
+=======
+            this.inicio.setConteudo(null);
+            return elementoRemovido;
+>>>>>>> 971089f41e4cbe2a6f71ab3e796e4285644a660e
         }
         No aux = this.inicio;
         int i = 0;

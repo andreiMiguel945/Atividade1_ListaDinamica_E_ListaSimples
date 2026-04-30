@@ -31,7 +31,11 @@ public class MainListaDinamica {
         //Acessando o programa após criar a lista
         public static void ProgramaDaLista () {
             ListaDinamica listaDinamica = new ListaDinamica(new No(null));
+<<<<<<< HEAD
             int opMenu = 0;
+=======
+            int opMenu;
+>>>>>>> 971089f41e4cbe2a6f71ab3e796e4285644a660e
             String produto;
             do{
                 try{
@@ -79,7 +83,11 @@ public class MainListaDinamica {
                         break;
                     }else{
                         System.out.println("Opção inválida! Insira novamente");
+<<<<<<< HEAD
                         System.out.println(listaDinamica.removerTodas("a"));
+=======
+                        System.out.println(listaDinamica.substituir("a","x"));
+>>>>>>> 971089f41e4cbe2a6f71ab3e796e4285644a660e
                     }
 
                 }catch(Exception e){

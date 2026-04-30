@@ -26,4 +26,12 @@ bin/
 .vscode/
 
 ### Mac OS ###
+<<<<<<< HEAD
 .DS_Store
+=======
+.DS_Store
+
+###Atividade1###
+Aula3_FilaSimples/
+Aula4_FilaDinamica/
+>>>>>>> 971089f41e4cbe2a6f71ab3e796e4285644a660e

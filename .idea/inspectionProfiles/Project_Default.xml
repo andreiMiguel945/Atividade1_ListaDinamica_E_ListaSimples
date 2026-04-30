@@ -1,6 +1,12 @@
 <component name="InspectionProjectProfileManager">
   <profile version="1.0">
     <option name="myName" value="Project Default" />
+<<<<<<< HEAD
     <inspection_tool class="GroovyOctalInteger" enabled="false" level="WARNING" enabled_by_default="false" />
+=======
+    <inspection_tool class="CommentedOutCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="minLines" value="13" />
+    </inspection_tool>
+>>>>>>> 971089f41e4cbe2a6f71ab3e796e4285644a660e
   </profile>
 </component>
